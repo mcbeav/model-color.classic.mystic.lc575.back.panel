@@ -11,6 +11,13 @@ I was not happy with the tolerances and options with existing models for a back 
 
 *My original model has very specific customizations that will likely not be helpful for you, so I am making some revisions and uploading a few more options. The model is also open source, so you can modify it to fit your needs.*
 
+![Back Panel With All My Customizations](https://raw.githubusercontent.com/mcbeav/model-color.classic.mystic.lc575.back.panel/refs/heads/main/CC-Back.jpg)
+
+![Back Panel With Everything Plugged In](https://raw.githubusercontent.com/mcbeav/model-color.classic.mystic.lc575.back.panel/refs/heads/main/CC-Back-Plugged-In.jpeg)
+
+![Printed In Multiple Pieces & Plastic Welded Together](https://raw.githubusercontent.com/mcbeav/model-color.classic.mystic.lc575.back.panel/refs/heads/main/Back-Panel-Layers.jpeg)
+
+
 ## Notes
 
 For each model there are 2 folders containing models. 
