@@ -3,9 +3,9 @@
 
   
 
-#### This repository contains multiple models with different options for a custom back panel for the Macintosh Color Classic with the LC575 (Mystic) upgrade.
+### This repository contains multiple models with different options for a custom back panel for the Macintosh Color Classic with the LC575 (Mystic) upgrade.
 
-#### A stock option with no customizations is also available
+### A stock option with no customizations is also available
 
   
 
