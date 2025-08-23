@@ -27,15 +27,15 @@ I was not happy with the tolerances and options with existing models for a back 
 
   
 
-![Back Panel With All My Customizations](https://raw.githubusercontent.com/mcbeav/model-color.classic.mystic.lc575.back.panel/refs/heads/main/photos/installed.jpg)
+![Back Panel With All My Customizations](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/color.classic.mystic.lc575.back.panel/installed.jpg)
 
   
 
-![Back Panel With Everything Plugged In](https://raw.githubusercontent.com/mcbeav/model-color.classic.mystic.lc575.back.panel/refs/heads/main/photos/plugged.jpeg)
+![Back Panel With Everything Plugged In](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/color.classic.mystic.lc575.back.panel/plugged.jpeg)
 
   
 
-![Printed In Multiple Pieces & Plastic Welded Together](https://raw.githubusercontent.com/mcbeav/model-color.classic.mystic.lc575.back.panel/refs/heads/main/photos/printed.jpeg)
+![Printed In Multiple Pieces & Plastic Welded Together](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/color.classic.mystic.lc575.back.panel/printed.jpeg)
 
   
   
