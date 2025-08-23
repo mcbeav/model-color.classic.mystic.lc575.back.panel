@@ -49,41 +49,41 @@ Each mode has 2 folders
   
 ### expansion-ports
 The model with both expansion ports open with the printable covers
-![single](https://raw.githubusercontent.com/mcbeav/model-color.classic.mystic.lc575.back.panel/refs/heads/main/no-customizations/expansion-ports/photos/single.PNG)
+![single](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/color.classic.mystic.lc575.back.panel/no-customizations/expansion-ports/single.png)
 
   
 
-![layers](https://raw.githubusercontent.com/mcbeav/model-color.classic.mystic.lc575.back.panel/refs/heads/main/no-customizations/expansion-ports/photos/layers.PNG)
+![layers](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/color.classic.mystic.lc575.back.panel/no-customizations/expansion-ports/layers.png)
 
 
 
 ### no-expansion-ports
 the model with both expansion ports removed
 
-![single](https://raw.githubusercontent.com/mcbeav/model-color.classic.mystic.lc575.back.panel/refs/heads/main/no-customizations/no-expansion-ports/photos/single.PNG)
+![single](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/color.classic.mystic.lc575.back.panel/no-customizations/no-expansion-ports/single.png)
 
   
 
-![layers](https://raw.githubusercontent.com/mcbeav/model-color.classic.mystic.lc575.back.panel/refs/heads/main/no-customizations/no-expansion-ports/photos/layers.PNG)
+![layers](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/color.classic.mystic.lc575.back.panel/no-customizations/no-expansion-ports/layers.png)
 
 
 
 ### no-comm-port
 the model with the Comm expansion port removed
 
-![single](https://raw.githubusercontent.com/mcbeav/model-color.classic.mystic.lc575.back.panel/refs/heads/main/no-customizations/no-comm-port/photos/single.PNG)
+![single](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/color.classic.mystic.lc575.back.panel/no-customizations/no-comm-port/single.png)
 
   
 
-![layers](https://raw.githubusercontent.com/mcbeav/model-color.classic.mystic.lc575.back.panel/refs/heads/main/no-customizations/no-comm-port/photos/layers.PNG)
+![layers](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/color.classic.mystic.lc575.back.panel/no-customizations/no-comm-port/layers.png)
 
 
 
 ### no-pds-port
 the model with the PDS expansion port removed
 
-![single](https://raw.githubusercontent.com/mcbeav/model-color.classic.mystic.lc575.back.panel/refs/heads/main/no-customizations/no-pds-port/photos/single.PNG)
+![single](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/color.classic.mystic.lc575.back.panel/no-customizations/no-pds-port/single.png)
 
   
 
-![layers](https://raw.githubusercontent.com/mcbeav/model-color.classic.mystic.lc575.back.panel/refs/heads/main/no-customizations/no-pds-port/photos/layers.PNG)
+![layers](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/color.classic.mystic.lc575.back.panel/no-customizations/no-pds-port/layers.png)

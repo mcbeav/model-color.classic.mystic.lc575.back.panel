@@ -27,7 +27,7 @@ There are 3 folders each containing a different model.
 	 - A custom janky pcb was wired to adapt the IDC20 cable the FlippyFloppy ships with, to use a rewired DB19 cable from an Apple Floppy Disk Drive.
 		 - This adapter required a mount which is found in the db19-mount directory
 
-![My Personal Custom Back Panel](https://raw.githubusercontent.com/mcbeav/model-color.classic.mystic.lc575.back.panel/refs/heads/main/photos/installed.jpg)
+![My Personal Custom Back Panel](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/color.classic.mystic.lc575.back.panel/installed.jpg)
 
 
 ### FlippyFloppy Revision
@@ -44,7 +44,7 @@ There are 3 folders each containing a different model.
  - PCI slot is modified to fit an Apple Ethernet expansion card, and the opening is in the shape of an RJ45 plug
  - FlippyFloppy support
 
-![Support For Standard FlippyFloppy](https://raw.githubusercontent.com/mcbeav/model-color.classic.mystic.lc575.back.panel/refs/heads/main/customizations/flippyfloppy-revision/single/photos/bottom.PNG)
+![Support For Standard FlippyFloppy](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/color.classic.mystic.lc575.back.panel/customizations/flippyfloppy-revision/single/bottom.png)
 
 
 ### Standard Expansion Ports
@@ -58,7 +58,7 @@ There are 3 folders each containing a different model.
 	 - requires an SD card extension cable
  - FlippyFloppy Support
 
-![Standard Style Expansion Ports](https://raw.githubusercontent.com/mcbeav/model-color.classic.mystic.lc575.back.panel/refs/heads/main/customizations/standard-expansion-ports/single/photos/model.PNG)
+![Standard Style Expansion Ports](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/color.classic.mystic.lc575.back.panel/customizations/standard-expansion-ports/single/model.png)
 
 
 
